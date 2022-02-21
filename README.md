@@ -1,5 +1,7 @@
 <img src="src/main/resources/assets/sodium/icon.png" width="128">
 
+I just made this fork so I don't have to build Sodium on my computer lol.
+
 # Sodium (for Fabric)
 ![GitHub license](https://img.shields.io/github/license/CaffeineMC/sodium-fabric.svg)
 ![GitHub issues](https://img.shields.io/github/issues/CaffeineMC/sodium-fabric.svg)
